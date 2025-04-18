@@ -3,19 +3,19 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashaam-011&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mahaz-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- WakaTime Badge -->
 <p align="center">
-  <a href="https://wakatime.com/@hashaam011">
+  <a href="https://wakatime.com/@Mahaz-01">
     <img src="https://wakatime.com/badge/user/ff941790-21a3-4015-9c4b-eb9f8d5183dd.svg" alt="WakaTime Badge" />
   </a>
 </p>
 
 
 - 🖊️ I’m currently working on **Software Development**
-- 🎓 Software Engineering Grad @Fast Nuces
+- 🎓 Software Engineering Grad @Buic
 - 📧 Email me at **rajasunny9299@gmail.com**
 
 ---
