@@ -66,10 +66,10 @@
 
 ## 📊 **GitHub Analytics**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsunny109&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaz-01&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rjsunny109&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahaz-01&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
-[![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjsunny109&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahaz-01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
